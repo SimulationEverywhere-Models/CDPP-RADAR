@@ -1,0 +1,4 @@
+cd++/cd++ -mradar4.ma -t00:00:01:000 -l -LY >radar4.log
+../cd++/drawlog -mradar4.ma -cradar -lradar4.log -w5 -p1 -f1 >output41.drw 
+../cd++/drawlog -mradar4.ma -cradar -lradar4.log -w5 -p1 -f2 >output42.drw 
+../cd++/drawlog -mradar4.ma -cradar -lradar4.log -w5 -p1 -f3 >output43.drw 
